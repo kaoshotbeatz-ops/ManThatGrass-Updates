@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Add 8 grass types (incl. Kentucky 31), Fertilizers guide (synthetic/organic/lime/iron), Methods (scalping/dethatch/aerate/edge)",
     "Month-by-month lawn schedule by grass type & zone",
     "10 turfgrass profiles, live weather, calculators, AI assistant, Lawn 101"
   ],
