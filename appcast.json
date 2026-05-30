@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "date": "2026-05-30",
+  "critical": false,
+  "notes": [
+    "Month-by-month lawn schedule by grass type & zone",
+    "10 turfgrass profiles, live weather, calculators, AI assistant, Lawn 101"
+  ],
+  "downloadURL": "https://github.com/kaoshotbeatz-ops/ManThatGrass-Updates/releases"
+}
